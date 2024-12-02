@@ -20,3 +20,7 @@ This project replicates a simple Banking System in Python, leveraging Object-Ori
 5. Exit Option
 
 * Users can exit the system gracefully.
+# Technologies Used
+* Python: Core programming language.
+* Jupyter Notebook: For interactive development and testing.
+* Object-Oriented Programming (OOP): To structure and organize the program effectively.
