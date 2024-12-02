@@ -1,8 +1,8 @@
-#BANKING SYSTEM
-#Project Overview
+# BANKING SYSTEM
+# Project Overview
 This project replicates a simple Banking System in Python, leveraging Object-Oriented Programming (OOP) principles. The system provides basic banking functionalities, including account login, depositing money, withdrawing money, and checking account balance. Additional features can be implemented as needed.
 
-#Features
+# Features
 1.Account Login
 
 *Users must enter a valid account number and password to access their account.
